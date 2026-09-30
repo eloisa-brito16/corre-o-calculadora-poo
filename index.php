@@ -3,13 +3,10 @@
 <div class="container">
     <div class="row">
         <div class="col"></div>
-        <div class="row">
-
-            <div class="co"></div>
-            <div class="co"></div>
-            <div class="co"></div>
+        <div class="col">
+            <form action="x" method="post"><label for=""></label><input type="text" name="" id=""></form>
         </div>
-        </div>
+        <div class="col"></div>
     </div>
 </div>
 
